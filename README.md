@@ -1,2 +1,2 @@
 # Bricker
-Bricker game implemented in Java, The essets are removed due to Copyright reasons.
+Bricker game implemented in Java, The assets are removed due to Copyright reasons.
